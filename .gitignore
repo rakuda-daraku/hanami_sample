@@ -1,0 +1,6 @@
+/db/sample_app_development
+/db/sample_app_test
+/public/assets*
+/tmp
+.idea
+
